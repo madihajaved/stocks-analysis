@@ -18,8 +18,6 @@ The code itself is tighter helping to achieve the same in lesser space.
 ### Processing time 
 Processing time improved significantly.
 
-
-
 Some general disadvantages are: 
 ### Requires more expertise
 It requires more expertise so might be harder to work across various users. Comments to explain the steps obviously help. 
@@ -29,5 +27,5 @@ Despite the shorter length, it took me longer to refactor the code.
 
 ## Advantages and disadvantages of refactoring code in VBA 
 In addition to the ones mentioned above, I would say that VBA debugging was harder than expected. Given that refactored code is more complex, it was harder to correct and ensure it was running smoothly. 
-Using arrays in the refactored code really helped avoid repeating a lot of code which became redundant. 
+However, an added advantage of using arrays in the refactored code really helped avoid repeating a lot of code which became redundant. 
 
